@@ -27,6 +27,3 @@ Currently, I'm working to rapidly expand my skills in **quantitative finance, nu
 - **Developing stronger data analysis skills**: primarily in preprocessing and postprocessing large data sets for applications to machine learning.
 
 
-<!--
-**garyalanmoon/garyalanmoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
