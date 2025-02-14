@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Gary Moon!
 I'm a **mathematician** with expertise in **nonlinear PDE, applied analysis, fluid dynamics and free boundary problems**.
+
 Currently, I'm working to rapidly expand my skills in **quantitative finance, numerical methods and machine learning**.
 
 # Areas of interest:
