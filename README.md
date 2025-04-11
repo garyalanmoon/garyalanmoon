@@ -18,13 +18,12 @@ Currently, I'm working to rapidly expand my skills in **quantitative finance, nu
 - Finite element methods, finite volume methods, CFD
 - Numerical optimization, numerical integration
 ## **Machine Learning**
-- Regression methods, decision trees, XGBoost, neural networks
-- Applications to quantitative finance via statistical arbitrage and high-frequency trading
-- Data analysis: Preprocessing and postprocessing for large data sets
+- Supervised learning (regression, classification)
+- Deep learning, neural networks, GANs, transformers, CNNs and computer vision, reinforcement learning
+- Data analysis: Data wrangling, exploratory data analysis, statistical analysis/modeling, postprocessing and data visualization
 
 # Some things I'm currently working on:
-- **Enhancing Python coding skills**: mostly focusing on implementation of quantitative finance tools and models.
-- **Exploring machine learning**: mostly interested in applications to quantitative finance (current project: implement some basic ML tools to generate stat arb trading signals).
-- **Developing stronger data analysis skills**: primarily in preprocessing and postprocessing large data sets for applications to machine learning.
+- **Enhancing Python coding skills**: focused on scientific computing, data analysis and machine learning.
+- **Exploring machine learning**: interested to really get into deep learning.
 
 
